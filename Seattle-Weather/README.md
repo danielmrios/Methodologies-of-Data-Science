@@ -8,4 +8,5 @@ The data is sourced from National Centers for Environmental Information using th
 Data preparation involved inspecting and cleaning datasets, converting data types, deriving the correct analysis approach, handling missing values, and ensuring tidy format.
 
 File: weather_data_preparation
+
 Clean csv: clean_seattle_nyc_weather.csv
