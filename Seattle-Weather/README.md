@@ -16,6 +16,7 @@ Clean csv: clean_seattle_nyc_weather.csv
 Analysis involved exploratory analysis of the clean dataset, developing questions pertaining to the problem, addressing questions, developing visualizations, and producing a final report.
 
 File: weather_data_analysis
+
 Report: weather_project_write-up
 
 #### Authors:
