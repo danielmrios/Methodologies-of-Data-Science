@@ -17,8 +17,8 @@ Analysis involved exploratory analysis of the clean dataset, developing question
 
 File: weather_data_analysis
 
-### Authors:
+#### Authors:
 Me (Daniel Rios)
 
-### License:
+#### License:
 All the materials and software used were open source and the work done for this project is reproducible by anyone.
