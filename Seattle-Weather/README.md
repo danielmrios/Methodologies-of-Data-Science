@@ -11,3 +11,14 @@ Data preparation involved inspecting and cleaning datasets, converting data type
 File: weather_data_preparation
 
 Clean csv: clean_seattle_nyc_weather.csv
+
+### Analysis:
+Analysis involved exploratory analysis of the clean dataset, developing questions pertaining to the problem, addressing questions, developing visualizations, and producing a final report.
+
+File: weather_data_analysis
+
+### Authors:
+Me (Daniel Rios)
+
+### License:
+All the materials and software used were open source and the work done for this project is reproducible by anyone.
