@@ -11,6 +11,7 @@ Source: https://www.edgap.org/#5/37.875/-95.977
 
 Located: EdGap_data.xlsx
 
+
 The secondary data set is basic information about each school from the National Center for Education Statistics.
 
 Source: https://nces.ed.gov/ccd/pubschuniv.asp
