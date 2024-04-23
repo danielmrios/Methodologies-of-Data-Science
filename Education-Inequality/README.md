@@ -17,5 +17,7 @@ Located: https://drive.google.com/file/d/1HvW2w-o2XZzCm4KTvnb1Bb3BvoAa14BP/view?
 Data preparation involved exploring the data, converting data types, removing unnecessary parts, data imputation, and creating a train-test split for analysis.
 
 Notebook: Education_Data_Preparation (Located in main repository)
+
 Clean training data: train.csv
+
 Clean testing data: test.csv
