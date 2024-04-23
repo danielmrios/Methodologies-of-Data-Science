@@ -14,7 +14,7 @@ The secondary data set is basic information about each school from the National 
 Located: https://drive.google.com/file/d/1HvW2w-o2XZzCm4KTvnb1Bb3BvoAa14BP/view?usp=sharing
 
 ## Data Preparation
-Data preparation involved exploring the data, converting data types, removing unnecessary parts, data imputation, and creating a train-test split for analysis.
+Data preparation involved exploring the data, converting data types, data imputation, and creating a train-test split for analysis.
 
 Notebook: Education_Data_Preparation (Located in main repository)
 
