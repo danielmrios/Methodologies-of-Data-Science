@@ -18,6 +18,6 @@ Data preparation involved exploring the data, converting data types, data imputa
 
 Notebook: Education_Data_Preparation (Located in main repository)
 
-Clean training data: train.csv
+Clean training data: x_train.csv, y_train.csv
 
-Clean testing data: test.csv
+Clean testing data: x_test.csv, y_test.csv
