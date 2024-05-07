@@ -26,3 +26,4 @@ Clean testing data: x_test.csv, y_test.csv
 Data analysis involved exploring the updated dataframe, deriving correlation of variables, and conducting regression modeling to predict ACT score
 
 Analysis book: education_inequality_analysis (Located in main repository)
+Slides: education_inequality_slides
