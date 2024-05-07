@@ -21,3 +21,8 @@ Notebook: Education_Data_Preparation (Located in main repository)
 Clean training data: x_train.csv, y_train.csv
 
 Clean testing data: x_test.csv, y_test.csv
+
+## Data Analysis
+Data analysis involved exploring the updated dataframe, deriving correlation of variables, and conducting regression modeling to predict ACT score
+
+Analysis book: education_inequality_analysis (Located in main repository)
