@@ -1,3 +1,3 @@
 # DATA 3320 archive
 
-Exploring data science processes across various methodologies and applications. Utilizing Python with an emphasis on Pandas and NumPy libraries. 
+Exploring data science processes across various methodologies and applications - EDA, Visualizations, ML, Fourier Analysis, Spectral Analysis, Image Classification, Neural Networks.
